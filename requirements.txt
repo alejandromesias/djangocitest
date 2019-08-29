@@ -1,1 +1,5 @@
 Django~=2.0.6
+dj-database-url 
+gunicorn 
+whitenoise
+psycopg2
